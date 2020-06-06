@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\collection\collection\collection\bin\Debug\collection.exe.config
+C:\Users\HP\Desktop\collection\collection\collection\bin\Debug\collection.exe
+C:\Users\HP\Desktop\collection\collection\collection\bin\Debug\collection.pdb
+C:\Users\HP\Desktop\collection\collection\collection\obj\Debug\collection.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\collection\collection\collection\obj\Debug\collection.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\collection\collection\collection\obj\Debug\collection.exe
+C:\Users\HP\Desktop\collection\collection\collection\obj\Debug\collection.pdb
